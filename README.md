@@ -6,7 +6,7 @@
 
 2. Question 2
 
-    Given a dice which rolls from 1 to 5, simulate a uniform 7 sided dice!
+    Given a dice which rolls from 1 to 5, simulate a uniform 7 sided dice.
 
 3. Question 3
 
